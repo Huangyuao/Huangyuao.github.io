@@ -1,2 +1,2 @@
-# 黄雨澳的个人站点
+# Huangyuao.github.io
 个人博客
